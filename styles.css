@@ -1,0 +1,24 @@
+body {
+    background-color: blueviolet; 
+    color: #fff; 
+    
+  
+}
+
+button {
+    padding: 1rem 2rem; 
+    margin: 2rem auto; 
+    border-radius: 50px;
+    background-color: #f109d2; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+h2 {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 4rem auto; 
+}
